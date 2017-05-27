@@ -1,0 +1,3 @@
+Dim s As String
+s = TEXTBOX1.Text
+MessageBox.Show("Hello" & s)
