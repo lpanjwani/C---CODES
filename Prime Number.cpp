@@ -2,7 +2,7 @@
 #include <conio.h>
 using namespace std;
 
-int main()
+void main()
 {
 	int n, i, x;
 	x = 1;
